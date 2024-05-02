@@ -1,0 +1,27 @@
+
+h
+8app/src/main/java/com/example/testpusher/MainActivity.kt,a\2\a26d33b3c0a77489403e4410347e68a70f92df10
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+t
+Dapp/src/main/java/com/example/testpusher/ui/theme/PusherViewModel.kt,7\a\7a6730b7d6af8f5c3e3a402c9f87f17bc23e0ffc
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+l
+<app/src/main/java/com/example/testpusher/ui/theme/Testing.kt,8\a\8aa81f071b21981455e184db69961b1076c578d5
+j
+:app/src/main/java/com/example/testpusher/ui/theme/Login.kt,8\e\8edee9d39f1cea372bab97e8ce31d435af25fdcb
+r
+Bapp/src/main/java/com/example/testpusher/component/SecondScreen.kt,4\b\4b6bebdb13e5a29caaba5f7584bd2d0783f27043
+p
+@app/src/main/java/com/example/testpusher/component/HomeScreen.kt,0\1\01da19dccac46c828ead822d8a82365be32c4bbf
+m
+=app/src/main/java/com/example/testpusher/utils/SwipeGester.kt,b\4\b44fc27182d6f51929a2b56c02851a8c481aad68
+m
+=app/src/main/java/com/example/testpusher/data/NewsArticles.kt,e\a\ea2fdb2b67c4b05f40dce07f9a48e064c6243008
+t
+Dapp/src/main/java/com/example/testpusher/component/SwipeDirection.kt,a\e\aefcf94abb21c856c2e69affa6f4054222a9d964
